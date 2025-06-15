@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Gerry Aria Rotama
 
-<!--
-**gryartma/gryartma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst with hands-on experience in SQL, Excel, Looker Studio, and Python for data analysis and visualization.
 
-Here are some ideas to get you started:
+📌 Portfolio Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Retail Sales Analysis Dashboard  
+   Tools: SQL Server, Excel, Looker Studio  
+   Insight: Profit trends, product analysis, customer distribution  
+   [GitHub Repo](https://github.com/gryartma/retail-sales-analysis-dashboard)  
+   [Live Dashboard](https://lookerstudio.google.com/reporting/42d155b7-b0ac-4be8-badf-de3492cd4130)
+
+
+2. SVM for thesis recomendation 
+📌 Tools: Python (Pandas, Matplotlib), Jupyter Notebook  
+📌 Insight: is SVM method is effective for recommending thesis topics, helping students make data-driven decisions when choosing their final project. 
+🔗 [GitHub Repo](https://github.com/gryartma/final-project-recommendation)
+
+---
+
+Feel free to connect or reach out if you're hiring, collaborating, or just want to chat data!
