@@ -12,10 +12,11 @@ Aspiring Data Analyst with hands-on experience in SQL, Excel, Looker Studio, and
 
 
 2. SVM for thesis recomendation 
-📌 Tools: Python (Pandas, Matplotlib), Jupyter Notebook  
-📌 Insight: is SVM method is effective for recommending thesis topics, helping students make data-driven decisions when choosing their final project. 
+   Tools: Python (Pandas, Matplotlib), Jupyter Notebook  
+   Insight:- is SVM method is effective for recommending thesis topics
+           - helping students make data-driven decisions when choosing their final project. 
 🔗 [GitHub Repo](https://github.com/gryartma/final-project-recommendation)
 
 ---
 
-Feel free to connect or reach out if you're hiring, collaborating, or just want to chat data!
+Feel free to connect or reach out if you're hiring, collaborating, or just want to chat !!
