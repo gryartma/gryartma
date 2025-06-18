@@ -13,11 +13,11 @@ Portfolio Projects
 
 2. SVM for thesis recomendation 
    Tools: Python (Pandas, Matplotlib), Jupyter Notebook  
-   Insight: is SVM method is effective for recommending thesis topics, helping students make data-driven decisions when choosing their final project. 
+   Insight: is SVM method is effective for recommending thesis topics, helping students make data-driven decisions when choosing their final project.
    [GitHub Repo](https://github.com/gryartma/final-project-recommendation)
 
 
-3. Man United Performance Analyst
+4. Man United Performance Analyst
    Tools : SQL Server, Excel, Looker Studio
    Insight : Match Results, Shooting Performance, Home-Away Impact, Discipline Analysis, Season Comparison
    [Github Repo](https://github.com/gryartma/Manutd_Analysis_Project)
