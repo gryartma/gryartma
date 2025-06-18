@@ -24,4 +24,4 @@ Portfolio Projects
 ---
 
 Feel free to connect or reach out if you're hiring, collaborating, or just want to chat !!
-[Mail](Geerxv@gmail.com)
+Mail Geerxv@gmail.com
