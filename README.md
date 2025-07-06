@@ -1,6 +1,6 @@
 Hi, I'm Gerry Aria Rotama
 
-Aspiring Data Analyst with hands-on experience in SQL, Excel, Looker Studio, and Python for data analysis and visualization.
+Aspiring Data Analyst and Data Scientist.   
 
 Portfolio Projects
 
