@@ -19,7 +19,7 @@ Portfolio Projects
    Insight: Match Results, Shooting Performance, Home-Away Impact, Discipline Analysis, Season Comparison  
    [GitHub Repo](https://github.com/gryartma/Manutd_Analysis_Project) • [Live Dashboard](https://lookerstudio.google.com/reporting/78a92ec7-5512-41d7-877e-8326820e0575)
 
-4. Customer Churn Prediction and Business Insight
+4. Customer Churn Prediction and Business Insight   
    Tools: Googel Colab (Phyton), Looker Studio  
    Insight: MTM contracts churn, Higher monthly, Fiber Optic users churn , ML model   
    [GitHub Repo](https://github.com/gryartma/Prediksi-Customer-Churn-Visualisasi-Bisnis) • [Live Dashboard](https://lookerstudio.google.com/reporting/947596eb-92f1-4de2-9da1-d20a3710f006/page/6MRQF/edit)
