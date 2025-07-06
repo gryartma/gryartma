@@ -21,7 +21,7 @@ Portfolio Projects
 
 4. Customer Churn Prediction and Business Insight
    Tools: Googel Colab (Phyton), Looker Studio  
-   Insight: MTM contracts lead to higher churn, Higher monthly charges n, Fiber Optic users churn more often, ML model gives actionable predictions, Interactive dashboard bridges data and decisions 
+   Insight: MTM contracts churn, Higher monthly, Fiber Optic users churn , ML model 
    [GitHub Repo](https://github.com/gryartma/Prediksi-Customer-Churn-Visualisasi-Bisnis) • [Live Dashboard](https://lookerstudio.google.com/reporting/947596eb-92f1-4de2-9da1-d20a3710f006/page/6MRQF/edit)
 
   
